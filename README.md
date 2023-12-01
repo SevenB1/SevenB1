@@ -1,8 +1,8 @@
 ### Hi there 👋
 I am a beginner programer working on learning different programs and building my own portfolio. 
 
-- 🔭 I’m currently working on completing the CS50 course offered by harvard.
-- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on prediction models for different databases.
+- 🌱 I’m currently learning prediction models.
 - ⚡ Fun fact: Pizza is the GOAT.
 <!--
 **SevenB1/SevenB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
