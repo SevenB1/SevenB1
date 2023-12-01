@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a beginner programer working on learning different programs and building my own portfolio. 
 
+- 😄 I've completed CS50 course for python and a machine learning cousrse.
 - 🔭 I’m currently working on prediction models for different databases.
 - 🌱 I’m currently learning prediction models.
 - ⚡ Fun fact: Pizza is the GOAT.
