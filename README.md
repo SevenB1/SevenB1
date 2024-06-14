@@ -1,4 +1,4 @@
-👋 Hey there! I'm Qambar, a 19-year-old passionate about the world of machine learning, artificial intelligence, and robotics. 🚀
+👋 Hey there! I'm Qambar, a 20-year-old passionate about the world of machine learning, artificial intelligence, and robotics. 🚀
 
 ## About Me
 - 🎓 Currently exploring the vast universe of machine learning algorithms and models.
